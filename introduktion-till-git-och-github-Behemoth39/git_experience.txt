@@ -1,2 +1,0 @@
-Jag har aldrig tidigare jobbat med Git eller GitHub.
-Git var mycket svårt och omständigt att jobba i, är mitt första intryck.
