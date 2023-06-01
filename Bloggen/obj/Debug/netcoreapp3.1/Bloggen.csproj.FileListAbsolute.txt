@@ -1,0 +1,14 @@
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.exe
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.deps.json
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.runtimeconfig.json
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.runtimeconfig.dev.json
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.dll
+C:\Users\simme\source\repos\Bloggen\bin\Debug\netcoreapp3.1\Bloggen.pdb
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.AssemblyInfo.cs
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.dll
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.pdb
+C:\Users\simme\source\repos\Bloggen\obj\Debug\netcoreapp3.1\Bloggen.genruntimeconfig.cache
