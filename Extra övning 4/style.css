@@ -1,0 +1,32 @@
+row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+@media screen and (min-width: 1200px) {
+  row > div {
+    font-size: 200px;
+    width: 300px;
+    height: 270px;
+    text-align: center;
+    border: 2px solid;
+  }
+}
+@media screen and (max-width: 1199px) {
+  row > div {
+    font-size: 280px;
+    width: 350px;
+    height: 370px;
+    text-align: center;
+    border: 2px solid;
+  }
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}

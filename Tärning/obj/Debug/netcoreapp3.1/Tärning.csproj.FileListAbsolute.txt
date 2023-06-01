@@ -1,0 +1,14 @@
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.AssemblyInfo.cs
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.exe
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.deps.json
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.runtimeconfig.json
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.runtimeconfig.dev.json
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.dll
+C:\Users\simme\source\repos\Tärning\bin\Debug\netcoreapp3.1\Tärning.pdb
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.dll
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.pdb
+C:\Users\simme\source\repos\Tärning\obj\Debug\netcoreapp3.1\Tärning.genruntimeconfig.cache

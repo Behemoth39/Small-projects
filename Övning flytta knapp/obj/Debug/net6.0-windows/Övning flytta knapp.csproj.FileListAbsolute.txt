@@ -1,0 +1,17 @@
+C:\Users\simme\source\repos\Övning flytta knapp\bin\Debug\net6.0-windows\Övning flytta knapp.exe
+C:\Users\simme\source\repos\Övning flytta knapp\bin\Debug\net6.0-windows\Övning flytta knapp.deps.json
+C:\Users\simme\source\repos\Övning flytta knapp\bin\Debug\net6.0-windows\Övning flytta knapp.runtimeconfig.json
+C:\Users\simme\source\repos\Övning flytta knapp\bin\Debug\net6.0-windows\Övning flytta knapp.dll
+C:\Users\simme\source\repos\Övning flytta knapp\bin\Debug\net6.0-windows\Övning flytta knapp.pdb
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning_flytta_knapp.Form1.resources
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.csproj.GenerateResource.cache
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.AssemblyInfo.cs
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.dll
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\refint\Övning flytta knapp.dll
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.pdb
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\Övning flytta knapp.genruntimeconfig.cache
+C:\Users\simme\source\repos\Övning flytta knapp\obj\Debug\net6.0-windows\ref\Övning flytta knapp.dll

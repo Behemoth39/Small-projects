@@ -1,0 +1,17 @@
+C:\Users\simme\source\repos\övning - text och tecken\bin\Debug\net6.0-windows\övning - text och tecken.exe
+C:\Users\simme\source\repos\övning - text och tecken\bin\Debug\net6.0-windows\övning - text och tecken.deps.json
+C:\Users\simme\source\repos\övning - text och tecken\bin\Debug\net6.0-windows\övning - text och tecken.runtimeconfig.json
+C:\Users\simme\source\repos\övning - text och tecken\bin\Debug\net6.0-windows\övning - text och tecken.dll
+C:\Users\simme\source\repos\övning - text och tecken\bin\Debug\net6.0-windows\övning - text och tecken.pdb
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning___text_och_tecken.Form1.resources
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.csproj.GenerateResource.cache
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.AssemblyInfo.cs
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.dll
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\refint\övning - text och tecken.dll
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.pdb
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\övning - text och tecken.genruntimeconfig.cache
+C:\Users\simme\source\repos\övning - text och tecken\obj\Debug\net6.0-windows\ref\övning - text och tecken.dll

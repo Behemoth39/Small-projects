@@ -1,0 +1,14 @@
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.exe
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.deps.json
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.runtimeconfig.json
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.runtimeconfig.dev.json
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.dll
+C:\Users\simme\source\repos\UtIn\bin\Debug\netcoreapp3.1\UtIn.pdb
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.AssemblyInfo.cs
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.dll
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.pdb
+C:\Users\simme\source\repos\UtIn\obj\Debug\netcoreapp3.1\UtIn.genruntimeconfig.cache

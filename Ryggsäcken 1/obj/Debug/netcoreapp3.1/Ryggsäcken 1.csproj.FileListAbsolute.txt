@@ -1,0 +1,14 @@
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.exe
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.deps.json
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.runtimeconfig.json
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.runtimeconfig.dev.json
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.dll
+C:\Users\simme\source\repos\Ryggsäcken 1\bin\Debug\netcoreapp3.1\Ryggsäcken 1.pdb
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.AssemblyInfo.cs
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.dll
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.pdb
+C:\Users\simme\source\repos\Ryggsäcken 1\obj\Debug\netcoreapp3.1\Ryggsäcken 1.genruntimeconfig.cache

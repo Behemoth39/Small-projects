@@ -1,0 +1,17 @@
+C:\Users\simme\source\repos\Övning 1\bin\Debug\net6.0-windows\Övning 1.exe
+C:\Users\simme\source\repos\Övning 1\bin\Debug\net6.0-windows\Övning 1.deps.json
+C:\Users\simme\source\repos\Övning 1\bin\Debug\net6.0-windows\Övning 1.runtimeconfig.json
+C:\Users\simme\source\repos\Övning 1\bin\Debug\net6.0-windows\Övning 1.dll
+C:\Users\simme\source\repos\Övning 1\bin\Debug\net6.0-windows\Övning 1.pdb
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning_1.Form1.resources
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.csproj.GenerateResource.cache
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.AssemblyInfo.cs
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.dll
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\refint\Övning 1.dll
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.pdb
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\Övning 1.genruntimeconfig.cache
+C:\Users\simme\source\repos\Övning 1\obj\Debug\net6.0-windows\ref\Övning 1.dll

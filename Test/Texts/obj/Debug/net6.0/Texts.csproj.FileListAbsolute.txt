@@ -1,0 +1,15 @@
+C:\Users\simme\source\repos\Texts\bin\Debug\net6.0\Texts.exe
+C:\Users\simme\source\repos\Texts\bin\Debug\net6.0\Texts.deps.json
+C:\Users\simme\source\repos\Texts\bin\Debug\net6.0\Texts.runtimeconfig.json
+C:\Users\simme\source\repos\Texts\bin\Debug\net6.0\Texts.dll
+C:\Users\simme\source\repos\Texts\bin\Debug\net6.0\Texts.pdb
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.AssemblyInfo.cs
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.dll
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\refint\Texts.dll
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.pdb
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\Texts.genruntimeconfig.cache
+C:\Users\simme\source\repos\Texts\obj\Debug\net6.0\ref\Texts.dll

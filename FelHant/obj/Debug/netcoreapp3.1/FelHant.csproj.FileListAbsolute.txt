@@ -1,0 +1,14 @@
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.exe
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.deps.json
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.runtimeconfig.json
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.runtimeconfig.dev.json
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.dll
+C:\Users\simme\source\repos\FelHant\bin\Debug\netcoreapp3.1\FelHant.pdb
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.csproj.AssemblyReference.cache
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.AssemblyInfoInputs.cache
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.AssemblyInfo.cs
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.csproj.CoreCompileInputs.cache
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.dll
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.pdb
+C:\Users\simme\source\repos\FelHant\obj\Debug\netcoreapp3.1\FelHant.genruntimeconfig.cache

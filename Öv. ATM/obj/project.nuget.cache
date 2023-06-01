@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7iDLi9lcUqjWgx7yLdCULtNisitd0FMfSKyzgCfiEgAWQl2rh8DZFXO4dFNKsmnENTU4S9I945Zn13XJvkr9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simme\\Documents\\GitHub\\Ploj\\Ploj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simme\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

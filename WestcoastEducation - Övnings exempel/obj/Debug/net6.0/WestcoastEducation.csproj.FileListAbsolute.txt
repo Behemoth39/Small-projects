@@ -1,0 +1,30 @@
+C:\Users\simme\Documents\GitHub\WestcoastEducation\bin\Debug\net6.0\WestcoastEducation.exe
+C:\Users\simme\Documents\GitHub\WestcoastEducation\bin\Debug\net6.0\WestcoastEducation.deps.json
+C:\Users\simme\Documents\GitHub\WestcoastEducation\bin\Debug\net6.0\WestcoastEducation.runtimeconfig.json
+C:\Users\simme\Documents\GitHub\WestcoastEducation\bin\Debug\net6.0\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation\bin\Debug\net6.0\WestcoastEducation.pdb
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.csproj.AssemblyReference.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.AssemblyInfoInputs.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.AssemblyInfo.cs
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.csproj.CoreCompileInputs.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\refint\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.pdb
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\WestcoastEducation.genruntimeconfig.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation\obj\Debug\net6.0\ref\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\bin\Debug\net6.0\WestcoastEducation.exe
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\bin\Debug\net6.0\WestcoastEducation.deps.json
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\bin\Debug\net6.0\WestcoastEducation.runtimeconfig.json
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\bin\Debug\net6.0\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\bin\Debug\net6.0\WestcoastEducation.pdb
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.csproj.AssemblyReference.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.AssemblyInfoInputs.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.AssemblyInfo.cs
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.csproj.CoreCompileInputs.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\refint\WestcoastEducation.dll
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.pdb
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\WestcoastEducation.genruntimeconfig.cache
+C:\Users\simme\Documents\GitHub\WestcoastEducation - Övnings exempel\obj\Debug\net6.0\ref\WestcoastEducation.dll

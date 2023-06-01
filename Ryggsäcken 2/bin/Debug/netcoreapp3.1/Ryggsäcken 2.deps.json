@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ryggsäcken 2/1.0.0": {
+        "runtime": {
+          "Ryggsäcken 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ryggsäcken 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

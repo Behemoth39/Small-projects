@@ -1,0 +1,17 @@
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Ploj.exe
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Ploj.deps.json
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Ploj.runtimeconfig.json
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Ploj.dll
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Ploj.pdb
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.csproj.AssemblyReference.cache
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.AssemblyInfoInputs.cache
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.AssemblyInfo.cs
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.csproj.CoreCompileInputs.cache
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.dll
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\refint\Ploj.dll
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.pdb
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.genruntimeconfig.cache
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\ref\Ploj.dll
+C:\Users\simme\Documents\GitHub\Ploj\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simme\Documents\GitHub\Ploj\obj\Debug\net6.0\Ploj.csproj.CopyComplete

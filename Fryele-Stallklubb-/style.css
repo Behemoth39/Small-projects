@@ -1,0 +1,96 @@
+header {
+  text-indent: 11em;
+  background-color: #1e88e5;
+  padding: 0.5em;
+  margin-bottom: 2em;
+}
+@media only screen and (max-width: 1000px) {
+  .Container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+@media only screen and (min-width: 1000px) {
+  .Container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+}
+.link-tree {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  margin-left: 5%;
+}
+.link-tree > div {
+  font-size: 200%;
+  width: 9em;  
+  margin: 10px;
+  text-indent: 1em;
+  line-height: 75px;
+  font-size: 30px;
+  background-color: #1e88e5;
+}
+.link-tree a:hover {
+  color: gold;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  flex-wrap: wrap;
+  max-width: 900px;
+  min-width: 350px;
+}
+p {
+  margin-bottom: 0%;
+  max-width: 610px;
+}
+h3 {
+  margin-bottom: 0%;
+  max-width: 610px;
+}
+a {
+  all: unset;
+  cursor: default;
+}
+.kont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.kont > div {
+  margin-right: 3em;
+  margin-top: 2em;
+}
+nav input {
+  display: none;
+}
+nav {
+  overflow: hidden;
+}
+nav ul {
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+nav input:checked ~ ul {
+  width: 100%;
+  height: 100%;
+}
+a.button {
+  background-color: silver;
+  height: fit-content;
+  width: fit-content;
+  font-size: 200%;
+  padding: 0.5em;
+  text-align: center;
+}
+a.button:hover {
+  background-color: gold;
+}
